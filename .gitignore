@@ -1,0 +1,5 @@
+*.pid
+*.sock
+*.log
+*.tmp
+*.err
